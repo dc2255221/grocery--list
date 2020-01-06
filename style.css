@@ -4,6 +4,12 @@ body {
   color: seagreen;
 }
 
+#static {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
 #app {
   width: 50%;
   margin: auto;
